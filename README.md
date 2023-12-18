@@ -10,7 +10,8 @@ A simple web-based random password generator project using HTML, CSS, and JavaSc
 
 ## Demo
 
-![Alt text](image.png)
+![image](https://github.com/maruti-panchal/Javascript-Projects/assets/112648935/cb0df039-e107-43e9-98df-b6b9dfc2150c)
+
 
 
 ## Features
