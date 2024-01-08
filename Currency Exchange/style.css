@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #FF5F6D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #FFC371, #FF5F6D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #FFC371, #FF5F6D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+
+.container{
+    /* display: flex;
+    justify-content: center; */
+    /* align-items: center; */
+    /* align-content: center; */
+    border: 2px solid gainsboro;
+    margin:50px;
+    margin-left: 550px;
+    margin-right: 400px;
+    height: 400px;
+    width: 400px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+input{
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+select{
+    height: 40px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    margin-top: 30px;
+}
+img{
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+}
+.dropdown{
+    display: flex;
+    align-items: center;
+    
+}
+.item2{
+    margin-left: 30px;
+}
+.ip2{
+    margin-top: 20px;
+}
+button{
+    display: block;
+    justify-content: center;
+    height: 40px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.hero{
+    width: 150px;
+    height: 150px;
+    margin-left: 670px;
+}
